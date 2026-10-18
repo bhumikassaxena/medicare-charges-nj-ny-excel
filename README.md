@@ -2,9 +2,11 @@
 
 An Excel + Power Query project that measures how much New Jersey and New York hospitals bill (charges) compared with what they actually receive (payments) for Original Medicare inpatient stays, and where that gap is largest.
 
-![Excel dashboard](dashboard_excel.png)
+<img width="1899" height="1040" alt="Medicare_charges vs Payment_summary_excel_dashboard" src="https://github.com/user-attachments/assets/3bee751d-1997-4373-aace-d0fc909a0528" />
 
-![Summary graphic](dashboard_summary.png)
+
+<img width="3200" height="2000" alt="Medicare_charges vs Payments_summary" src="https://github.com/user-attachments/assets/e2d0f1c0-f057-4da3-b136-d9cdda3f1d55" />
+
 
 ## Business question
 
