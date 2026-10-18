@@ -54,10 +54,8 @@ How big is the gap between hospital charges and payments in NJ and NY, and where
 - `Medicare_Charges_NJ_NY_2024.xlsx`: tabs `Medicare_Data`, `Hospital_Info`, `DRG_Volume`, `Hospital_Pivot`, `DRG_Pivot`, `Ownership_Pivot`, `Rating_Pivot`, `Dash Data`, `Dashboard`
 - `CMS_Medicare_Inpatient_NJ_NY_2024_raw_filtered.csv`: the raw CMS file filtered to NJ and NY (13,103 rows), before any calculations. The full national file (about 38 MB) is too large for GitHub's browser upload; download it from CMS.
 - `Hospital_General_Information.csv`: CMS hospital ownership and star ratings (national)
-- `dashboard_excel.png`: screenshot of the Excel dashboard
-- `dashboard_summary.png`: summary graphic of the same results
+- Dashboard images: the Excel dashboard screenshot and the summary graphic are shown at the top of this README and are also saved as image files in this repository.
 
-Note: Power Query reads the CMS CSV files from a local folder. To refresh the queries, download the two CMS files (see Data) and point the queries to their location.
 
 ## Tools
 
